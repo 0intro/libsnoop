@@ -1,4 +1,4 @@
-[![Build Status](https://drone.io/github.com/0intro/libsnoop/status.png)](https://drone.io/github.com/0intro/libsnoop/latest)
+[![Build Status](https://travis-ci.org/0intro/libsnoop.svg?branch=master)](https://travis-ci.org/0intro/libsnoop)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/7835/badge.svg)](https://scan.coverity.com/projects/7835)
 
 libsnoop
