@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/0intro/libsnoop.svg?branch=master)](https://travis-ci.org/0intro/libsnoop)
+[![Build Status](https://github.com/0intro/libsnoop/workflows/C/badge.svg)](https://github.com/0intro/libsnoop/actions/workflows/c.yml)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/7835/badge.svg)](https://scan.coverity.com/projects/7835)
 
 libsnoop
