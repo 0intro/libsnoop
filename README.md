@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/0intro/libsnoop/workflows/C/badge.svg)](https://github.com/0intro/libsnoop/actions/workflows/c.yml)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/7835/badge.svg)](https://scan.coverity.com/projects/7835)
+[![Coverity Scan Build Status](https://scan.coverity.com/projects/0intro-libsnoop/badge.svg)](https://scan.coverity.com/projects/0intro-libsnoop)
 
 libsnoop
 ========
